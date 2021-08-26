@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/kmanu/Desktop/Anu.documents/Workspace/VideoGameProject/src/test/java/apitestestcases">
+        <classes>
+            <class name="apitestestcases.TC2_PostRequest">
+                <methods>
+                    <include name="tc_getAllvideoGames"/>
+                    <include name="tc_PostRequest"/>
+                    <include name="get_VideoGame"/>
+                    <include name="update_videoGame"/>
+                    <include name="delete_VideoGame"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

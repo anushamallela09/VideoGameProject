@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="7046" started-at="2021-08-26T15:44:04 EDT" finished-at="2021-08-26T15:44:11 EDT">
+    <groups>
+    </groups>
+    <test name="C:/Users/kmanu/Desktop/Anu.documents/Workspace/VideoGameProject/src/test/java/apitestestcases" duration-ms="7046" started-at="2021-08-26T15:44:04 EDT" finished-at="2021-08-26T15:44:11 EDT">
+      <class name="apitestestcases.TC2_PostRequest">
+        <test-method status="PASS" signature="tc_getAllvideoGames()[pri:1, instance:apitestestcases.TC2_PostRequest@23e028a9]" name="tc_getAllvideoGames" duration-ms="2362" started-at="2021-08-26T15:44:04 EDT" finished-at="2021-08-26T15:44:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_getAllvideoGames -->
+        <test-method status="PASS" signature="tc_PostRequest()[pri:2, instance:apitestestcases.TC2_PostRequest@23e028a9]" name="tc_PostRequest" duration-ms="603" started-at="2021-08-26T15:44:07 EDT" finished-at="2021-08-26T15:44:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_PostRequest -->
+        <test-method status="PASS" signature="get_VideoGame()[pri:3, instance:apitestestcases.TC2_PostRequest@23e028a9]" name="get_VideoGame" duration-ms="864" started-at="2021-08-26T15:44:07 EDT" finished-at="2021-08-26T15:44:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_VideoGame -->
+        <test-method status="PASS" signature="update_videoGame()[pri:4, instance:apitestestcases.TC2_PostRequest@23e028a9]" name="update_videoGame" duration-ms="111" started-at="2021-08-26T15:44:08 EDT" finished-at="2021-08-26T15:44:08 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_videoGame -->
+        <test-method status="PASS" signature="delete_VideoGame()[pri:5, instance:apitestestcases.TC2_PostRequest@23e028a9]" name="delete_VideoGame" duration-ms="3060" started-at="2021-08-26T15:44:08 EDT" finished-at="2021-08-26T15:44:11 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_VideoGame -->
+      </class> <!-- apitestestcases.TC2_PostRequest -->
+    </test> <!-- C:/Users/kmanu/Desktop/Anu.documents/Workspace/VideoGameProject/src/test/java/apitestestcases -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
